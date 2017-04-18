@@ -7,20 +7,22 @@ Source environment for my [PHP7 CentOS Elasticsearch vagrant box](https://atlas.
 * [Ansible](http://docs.ansible.com/ansible/index.html)
 
 ### Versions
+>Basebox:centos/6 1703.01
 
-* CentOS release 6.8 (Final)
-* Nginx 1.10.2
-* PHP 7.0.13
+* CentOS release 6.9 (Final)
+* Nginx 1.12
+* PHP 7.1.3
 * Java JRE 8u112
 * Kibana 4.6.3
     * Kibana sense plugin
 * Ruby 2.1.4
 * Beanstalkd 1.10
 * Composer 1.2.2
-* Elasticsearch 2.4.2
+* Elasticsearch 2.4.4
     * Elasticsearch Kopf plugin
     * Elasticsearch Mapper-attachement plugin
 * Capistrano 2.15.9
+* PHPUnit 6.1.0
 
 ### Instructions
 

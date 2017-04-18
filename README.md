@@ -13,7 +13,7 @@ Source environment for my [PHP7 CentOS Elasticsearch vagrant box](https://atlas.
 * Nginx 1.12
 * PHP 7.1.3
 * Java JRE 8u112
-* Kibana 4.6.3
+* Kibana 4.6.4
     * Kibana sense plugin
 * Ruby 2.1.4
 * Beanstalkd 1.10

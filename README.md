@@ -1,6 +1,6 @@
 # php7 Elasticsearch Nginx Centos Vagrant Box
 
-Source environment for my [PHP7 CentOS Elasticsearch vagrant box](https://atlas.hashicorp.com/ajnijland/boxes/centos6-php7-elasticsearch). Provisioned using Ansible.
+Source environment for my [PHP7 CentOS Elasticsearch vagrant box](https://app.vagrantup.com/ajnijland/boxes/centos6-php7-elasticsearch). Provisioned using Ansible.
 
 ### Pre-reqs
 
